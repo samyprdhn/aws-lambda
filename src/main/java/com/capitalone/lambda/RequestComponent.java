@@ -1,4 +1,4 @@
-package robbaily;
+package com.capitalone.lambda;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import org.apache.commons.logging.Log;

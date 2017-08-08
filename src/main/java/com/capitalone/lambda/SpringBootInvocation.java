@@ -1,4 +1,4 @@
-package robbaily;
+package com.capitalone.lambda;
 
 import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;
